@@ -1,113 +1,88 @@
-# Hi, I'm Salis Nizar Qomaruzaman 👋
-### Full-Stack Engineer | Laravel & API-Driven Systems
+# Hi, I'm Salis 👋
+### Software Engineer | Problem Solver | AI-Driven Development
 
-Full-Stack Engineer with strong end-to-end ownership in designing, building, and maintaining **scalable web applications**.  
-Experienced in backend architecture using **Laravel, Node.js, and SQL databases**, with solid frontend implementation using **React and modern JavaScript**.  
-Focused on clean architecture, system optimization, and production-ready solutions.
+I approach software engineering as a **problem-solving discipline**, not a technology checklist.  
+My focus is on understanding business constraints, system behavior, and failure points — then designing solutions that are **scalable, maintainable, and efficient**.
 
-📍 Yogyakarta, Indonesia  
-🌍 Open to remote & relocation opportunities
+I use modern tools, including **AI-assisted workflows**, to accelerate development without compromising engineering quality.
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Engineering Mindset
 
-**Backend**
-- PHP (Laravel, CodeIgniter)
-- Node.js (Express)
-- RESTful API, JWT Authentication
-- MySQL, PostgreSQL
+I believe good software is built by:
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- Tailwind CSS, Bootstrap
+- Understanding the **real problem**, not just the requested feature
+- Designing systems that **fail gracefully**
+- Optimizing for **long-term maintainability**, not short-term speed
+- Writing code that is **easy to reason about, debug, and extend**
+- Making trade-offs explicit and intentional
 
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Postman
-- CI/CD & Deployment
+Technology choices are outcomes — **not the starting point**.
 
 ---
 
-## 💼 Professional Experience
+## 🔍 How I Approach Problems
 
-**Programmer — PT Indo Tekno Medic**  
-*Oct 2025 – Present*  
-- Contribute to a **Hospital Information System (SIMRS)** with 60+ operational modules
-- Support hospital staff usage, feature requests, and UI improvements
-- Collaborate with team leaders to align system changes with hospital workflows
+**1. Clarify the problem**
+- What is the actual pain point?
+- Who is affected and how often?
+- What happens when the system fails?
 
-**Full-Stack Developer — Merapi Online Corp (Project-Based)**  
-*Jun 2025 – Oct 2025*  
-- Developed and deployed multiple internal & client-facing web applications
-- Improved legacy systems, reducing errors and improving efficiency
-- Designed scalable architectures with technical leaders
-- Led deployment from development to production for time-sensitive projects
+**2. Break it down**
+- Identify boundaries, data flow, and ownership
+- Separate concerns: business logic, infrastructure, and presentation
 
-**Full-Stack Developer Intern — Wesclic Indonesia**  
-*Apr 2025 – Jun 2025*  
-- Built backend systems using **Laravel & MySQL (MVC)**
-- Developed and documented REST APIs with authentication & CORS
-- Integrated frontend with token-based backend APIs
-- Converted UI/UX designs into responsive interfaces using Tailwind
+**3. Design the solution**
+- Prefer simple, composable designs
+- Avoid premature optimization
+- Plan for change and scale
 
-**Full-Stack Developer Intern — Soko Financial**  
-*Oct 2023 – Jan 2024*  
-- Migrated company profile system from WordPress to Laravel
-- Implemented Figma designs into responsive web pages
-- Participated in technical planning and stack discussions
+**4. Deliver with feedback**
+- Ship incrementally
+- Measure impact
+- Iterate based on real usage
 
 ---
 
-## 🧩 Selected Projects
+## ⚙️ AI-Driven Development
 
-### 🏥 Hospital Information System (SIMRS)
-- Doctor reservations & patient queue management  
-- CRUD for doctors, patients, medicines, schedules  
-- Prescription & automated billing  
-- Financial reports (daily, weekly, monthly)
+I use AI as a **force multiplier**, not a replacement for engineering judgment.
 
-### 🎓 Course Recommendation System (Fuzzy Logic)
-- Automated course recommendations based on transcript data  
-- Role-based access (student, lecturer, admin)  
-- Built with Laravel & Tailwind
+- Accelerate boilerplate and repetitive tasks
+- Explore multiple solution approaches quickly
+- Improve code readability and documentation
+- Assist debugging and edge-case discovery
 
-### 🕌 TPA Al-Muhajirin Management System
-- Smart scheduling with conflict detection  
-- Student & teacher management  
-- Weighted assessment (60% academic, 40% character)  
-- PDF report export & document management
-
-### 🅿️ MOC Park – Parking System
-- Optimized parking gate response time  
-- Active vehicle tracking across multiple locations  
-- Excel export with store & date filters  
-- Improved pagination & UX
-
-### 👥 HR Information System
-- Secure APIs to process applicant data from Google Forms  
-- Automated WhatsApp & Telegram notifications  
-- Print-ready candidate detail generation for HR
+Final decisions, architecture, and responsibility **remain human-owned**.
 
 ---
 
-## 🎯 What I Focus On
+## 🧩 What I Typically Solve
 
-- Designing **API-first backend systems**
-- Improving & refactoring legacy applications
-- Building maintainable, scalable architectures
-- Delivering production-ready features with clear ownership
-
----
-
-## 📫 Contact
-
-- 📧 Email: nizarsalis@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/salis-nizar-qomaruzaman  
-- 🌐 GitHub: https://github.com/USERNAME
+- Reducing system complexity and technical debt
+- Improving reliability of existing systems
+- Designing API-first architectures
+- Making legacy systems easier to extend
+- Turning unclear requirements into concrete, testable solutions
 
 ---
 
-⭐ *Building reliable systems, continuously improving engineering quality.*
+## 🧭 What You Can Expect From Me
+
+- Clear communication of trade-offs
+- Ownership from design to delivery
+- Pragmatic decision-making
+- Respect for users, systems, and future maintainers
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/USERNAME
+- LinkedIn: https://linkedin.com/in/salis-nizar-qomaruzaman
+- Email: nizarsalis@gmail.com
+
+---
+
+⭐ *Solve the right problem first. Code is just the tool.*
