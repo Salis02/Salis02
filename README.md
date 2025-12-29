@@ -79,7 +79,7 @@ Final decisions, architecture, and responsibility **remain human-owned**.
 
 ## 📫 Connect
 
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/Salis02
 - LinkedIn: https://linkedin.com/in/salis-nizar-qomaruzaman
 - Email: nizarsalis@gmail.com
 
