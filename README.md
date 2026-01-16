@@ -22,29 +22,6 @@ Technology choices are outcomes — **not the starting point**.
 
 ---
 
-## 🔍 How I Approach Problems
-
-**1. Clarify the problem**
-- What is the actual pain point?
-- Who is affected and how often?
-- What happens when the system fails?
-
-**2. Break it down**
-- Identify boundaries, data flow, and ownership
-- Separate concerns: business logic, infrastructure, and presentation
-
-**3. Design the solution**
-- Prefer simple, composable designs
-- Avoid premature optimization
-- Plan for change and scale
-
-**4. Deliver with feedback**
-- Ship incrementally
-- Measure impact
-- Iterate based on real usage
-
----
-
 ## ⚙️ AI-Driven Development
 
 I use AI as a **force multiplier**, not a replacement for engineering judgment.
@@ -65,15 +42,6 @@ Final decisions, architecture, and responsibility **remain human-owned**.
 - Designing API-first architectures
 - Making legacy systems easier to extend
 - Turning unclear requirements into concrete, testable solutions
-
----
-
-## 🧭 What You Can Expect From Me
-
-- Clear communication of trade-offs
-- Ownership from design to delivery
-- Pragmatic decision-making
-- Respect for users, systems, and future maintainers
 
 ---
 
