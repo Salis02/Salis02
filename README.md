@@ -1,4 +1,4 @@
-# Hi, I'm Salis 👋
+# Hi, I'm Salis Nizar Qomaruzaman 👋
 ### Software Engineer | Problem Solver | AI-Driven Development
 
 I approach software engineering as a **problem-solving discipline**, not a technology checklist.  
